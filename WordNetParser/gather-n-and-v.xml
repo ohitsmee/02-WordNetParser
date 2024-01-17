@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <Lexicon>
+    <LexicalEntry id="oewn-gather-n">
+      <Lemma writtenForm="gather" partOfSpeech="n">
+        <Pronunciation variety="GB">&#712;&#609;&#230;&#240;&#601;</Pronunciation>
+        <Pronunciation variety="US">&#712;&#609;&#230;&#240;&#602;</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-gather__1.06.00.." synset="oewn-03433715-n">
+        <SenseRelation relType="derivation" target="oewn-gather__2.35.03.." />
+      </Sense>
+      <Sense id="oewn-gather__1.04.00.." synset="oewn-01016932-n">
+        <SenseRelation relType="derivation" target="oewn-gather__2.35.04.." />
+        <SenseRelation relType="derivation" target="oewn-gather__2.35.00.." />
+        </Sense>
+    </LexicalEntry>
+    <LexicalEntry id="oewn-gather-v">
+      <Lemma writtenForm="gather" partOfSpeech="v">
+        <Pronunciation variety="GB">&#712;&#609;&#230;&#240;&#601;</Pronunciation>
+        <Pronunciation variety="US">&#712;&#609;&#230;&#240;&#602;</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-gather__2.35.00.." subcat="vtaa vtai vtii" synset="oewn-01383303-v">
+        <SenseRelation relType="also" target="oewn-gather_up__2.38.00.." />
+        <SenseRelation relType="antonym" target="oewn-spread__2.35.00.." />
+        <SenseRelation relType="derivation" target="oewn-gather__1.04.00.." />
+        <SenseRelation relType="other" target="oewn-gather__1.04.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-gather__2.41.00.." subcat="via via-pp" synset="oewn-02433771-v">
+        <SenseRelation relType="derivation" target="oewn-gathering__1.14.00.." />
+        <SenseRelation relType="derivation" target="oewn-gathering__1.04.00.." />
+      </Sense>
+      <Sense id="oewn-gather__2.30.00.." subcat="vii vii-pp" synset="oewn-00158612-v">
+        <SenseRelation relType="derivation" target="oewn-gathering__1.04.01.." />
+      </Sense>
+      <Sense id="oewn-gather__2.32.00.." subcat="via-that" synset="oewn-00947157-v" />
+      <Sense id="oewn-gather__2.35.03.." subcat="vtai" synset="oewn-01333504-v">
+        <SenseRelation relType="derivation" target="oewn-gather__1.06.00.." />
+        <SenseRelation relType="derivation" target="oewn-gathering__1.06.00.." />
+        <SenseRelation relType="other" target="oewn-gather__1.06.00.." dc:type="result" />
+      </Sense>
+      <Sense id="oewn-gather__2.41.02.." subcat="vtaa" synset="oewn-02604140-v">
+        <SenseRelation relType="derivation" target="oewn-gathering__1.14.00.." />
+        <SenseRelation relType="derivation" target="oewn-gathering__1.04.00.." />
+      </Sense>
+      <Sense id="oewn-gather__2.35.05.." subcat="vtai" synset="oewn-01352575-v" />
+      <Sense id="oewn-gather__2.35.04.." subcat="via vtai" synset="oewn-01319279-v">
+        <SenseRelation relType="other" target="oewn-gatherer__1.18.01.." dc:type="agent" />
+        <SenseRelation relType="derivation" target="oewn-gather__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-gatherer__1.18.01.." />
+        <SenseRelation relType="other" target="oewn-gather__1.04.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-gather__2.30.01.." subcat="vtai vtii" synset="oewn-00157270-v" />
+    </LexicalEntry>
+    <LexicalEntry id="oewn-gather_up-v">
+      <Lemma writtenForm="gather up" partOfSpeech="v" />
+      <Sense id="oewn-gather_up__2.38.00.." subcat="vtaa vtai vtia vtii" synset="oewn-01980103-v">
+        <SenseRelation relType="also" target="oewn-gather__2.35.00.." />
+      </Sense>
+      <Sense id="oewn-gather_up__2.40.00.." subcat="vtaa vtai" synset="oewn-02310566-v" />
+    </LexicalEntry>
+    <LexicalEntry id="oewn-spread-v">
+      <Lemma writtenForm="spread" partOfSpeech="v">
+        <Pronunciation>sp&#633;&#603;d</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-spread__2.35.00.." subcat="vtai vtai-pp vtii" synset="oewn-01381221-v">
+        <SenseRelation relType="also" target="oewn-spread_out__2.38.00.." />
+        <SenseRelation relType="also" target="oewn-spread_out__2.38.01.." />
+        <SenseRelation relType="also" target="oewn-spread_out__2.38.02.." />
+        <SenseRelation relType="also" target="oewn-spread_out__2.35.00.." />
+        <SenseRelation relType="antonym" target="oewn-gather__2.35.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreader__1.06.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreading__1.04.00.." />
+        <SenseRelation relType="other" target="oewn-spread__1.04.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spreader__1.06.00.." dc:type="instrument" />
+      </Sense>
+      <Sense id="oewn-spread__2.35.07.." subcat="vii" synset="oewn-01382787-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="other" target="oewn-spread__1.04.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-spread__2.42.00.." subcat="vtii" synset="oewn-02695141-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreading__1.11.00.." />
+        <SenseRelation relType="other" target="oewn-spread__1.04.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-spread__2.35.03.." subcat="vtai vtai-pp" synset="oewn-01582662-v" />
+      <Sense id="oewn-spread__2.32.00.." subcat="vtai" synset="oewn-00970243-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreading__1.10.00.." />
+        <SenseRelation relType="other" target="oewn-spread__1.04.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-spread__2.32.02.." subcat="vii" synset="oewn-00971905-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-spread__2.38.00.." subcat="vtai vtai-pp" synset="oewn-02086937-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreader__1.06.01.." />
+        <SenseRelation relType="other" target="oewn-spread__1.04.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spreader__1.06.01.." dc:type="instrument" />
+      </Sense>
+      <Sense id="oewn-spread__2.38.02.." subcat="vii vtai vtii" synset="oewn-02064069-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.04.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-spread__1.11.00.." />
+        <SenseRelation relType="other" target="oewn-spread__1.04.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.07.00.." dc:type="event" />
+        <SenseRelation relType="other" target="oewn-spread__1.11.00.." dc:type="event" />
+      </Sense>
+      <Sense id="oewn-spread__2.35.12.." subcat="vtai-pp" synset="oewn-01614805-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.13.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreader__1.06.00.." />
+        <SenseRelation relType="other" target="oewn-spreader__1.06.00.." dc:type="instrument" />
+        <SenseRelation relType="other" target="oewn-spread__1.13.00.." dc:type="undergoer" />
+      </Sense>
+      <Sense id="oewn-spread__2.35.13.." subcat="vtai-pp" synset="oewn-01614650-v">
+        <SenseRelation relType="derivation" target="oewn-spread__1.13.00.." />
+        <SenseRelation relType="derivation" target="oewn-spreader__1.06.00.." />
+        <SenseRelation relType="other" target="oewn-spreader__1.06.00.." dc:type="instrument" />
+        <SenseRelation relType="other" target="oewn-spread__1.13.00.." dc:type="undergoer" />
+        </Sense>
+    </LexicalEntry>
+    <Synset id="oewn-03433715-n" ili="i54246" members="oewn-gather-n oewn-gathering-n" partOfSpeech="n" lexfile="noun.artifact">
+      <Definition>sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-04186446-n" />
+    </Synset>
+    <Synset id="oewn-04186446-n" ili="i58713" members="oewn-sewing-n oewn-stitchery-n" partOfSpeech="n" lexfile="noun.artifact">
+      <Definition>needlework on which you are working with needle and thread</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-03822389-n" />
+      <SynsetRelation relType="has_domain_topic" target="oewn-01333709-v" />
+      <SynsetRelation relType="hyponym" target="oewn-02733435-n" />
+      <SynsetRelation relType="hyponym" target="oewn-02844156-n" />
+      <SynsetRelation relType="hyponym" target="oewn-03433715-n" />
+      <SynsetRelation relType="hyponym" target="oewn-03750776-n" />
+      <SynsetRelation relType="hyponym" target="oewn-03904197-n" />
+      <SynsetRelation relType="hyponym" target="oewn-04328376-n" />
+      <Example>she put her sewing back in the basket</Example>
+    </Synset>
+    <Synset id="oewn-01333504-v" ili="i28340" members="oewn-gather-v oewn-pucker-v oewn-tuck-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>draw together into folds or puckers</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01331921-v" />
+    </Synset>
+    <Synset id="oewn-01016932-n" ili="i40718" members="oewn-gather-n oewn-gathering-n" partOfSpeech="n" lexfile="noun.act">
+      <Definition>the act of gathering something</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01016008-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01017117-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01017252-n" />
+    </Synset>
+    <Synset id="oewn-01016008-n" ili="i40714" members="oewn-collection-n oewn-collecting-n oewn-assembling-n oewn-aggregation-n" partOfSpeech="n" lexfile="noun.act">
+      <Definition>the act of gathering something together</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01014302-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01016432-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01016549-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01016673-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01016932-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01017493-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01017631-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01017938-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01018143-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01018362-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01018690-n" />
+    </Synset>
+    <Synset id="oewn-01017117-n" ili="i40719" members="oewn-centralization-n oewn-centralisation-n" partOfSpeech="n" lexfile="noun.act">
+      <Definition>gathering to a center</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01016932-n" />
+    </Synset>
+    <Synset id="oewn-01017252-n" ili="i40720" members="oewn-harvest-n oewn-harvesting-n oewn-harvest_home-n" partOfSpeech="n" lexfile="noun.act">
+      <Definition>the gathering of a ripened crop</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01016932-n" />
+      <SynsetRelation relType="hyponym" target="oewn-01017419-n" />
+    </Synset>
+    <Synset id="oewn-01319279-v" ili="i28266" members="oewn-gather-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>look for (food) in nature</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01318273-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01319473-v" />
+      <Example>Our ancestors gathered nuts in the Fall</Example>
+    </Synset>
+    <Synset id="oewn-01383303-v" ili="i28612" members="oewn-gather-v oewn-garner-v oewn-collect-v oewn-pull_together-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>assemble or get together</Definition>
+      <SynsetRelation relType="hyponym" target="oewn-00271014-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01309513-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01322669-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01322981-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01383909-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01384022-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01384203-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01384567-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01384737-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01385374-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01385571-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01385899-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01386047-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01386165-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01386300-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01386454-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01386601-v" />
+      <SynsetRelation relType="is_entailed_by" target="oewn-01388413-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01388962-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01506930-v" />
+      <Example>gather some stones</Example>
+      <Example>pull your thoughts together</Example>
+    </Synset>
+    <Synset id="oewn-00271014-v" ili="i23070" members="oewn-mobilize-v oewn-mobilise-v oewn-marshal-v oewn-summon-v" partOfSpeech="v" lexfile="verb.change">
+      <Definition>make ready for action or use</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>marshal resources</Example>
+    </Synset>
+    <Synset id="oewn-01309513-v" ili="i28218" members="oewn-rake-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather with a rake</Definition>
+      <SynsetRelation relType="entails" target="oewn-01310820-v" />
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>rake leaves</Example>
+    </Synset>
+    <Synset id="oewn-01322669-v" ili="i28286" members="oewn-reap-v oewn-harvest-v oewn-glean-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather, as of natural products</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01323084-v" />
+      <Example>harvest the grapes</Example>
+    </Synset>
+    <Synset id="oewn-01322981-v" ili="i28287" members="oewn-club-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather into a club-like mass</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>club hair</Example>
+    </Synset>
+    <Synset id="oewn-01383909-v" ili="i28613" members="oewn-hive-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather into a hive</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>The beekeeper hived the swarm</Example>
+    </Synset>
+    <Synset id="oewn-01384022-v" ili="i28614" members="oewn-salvage-v oewn-scavenge-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>collect discarded material</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>She scavenged the garbage cans for food</Example>
+    </Synset>
+    <Synset id="oewn-01384203-v" ili="i28615" members="oewn-muster-v oewn-rally-v oewn-summon-v oewn-come_up-v oewn-muster_up-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather or bring together</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>muster the courage to do something</Example>
+      <Example>she rallied her intellect</Example>
+      <Example>Summon all your courage</Example>
+    </Synset>
+    <Synset id="oewn-01384567-v" ili="i28617" members="oewn-round_up-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>seek out and bring together</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>round up some loyal followers</Example>
+    </Synset>
+    <Synset id="oewn-01384737-v" ili="i28618" members="oewn-pick-v oewn-pluck-v oewn-cull-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>look for and gather</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01385091-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01386756-v" />
+      <Example>pick mushrooms</Example>
+      <Example>pick flowers</Example>
+    </Synset>
+    <Synset id="oewn-01385374-v" ili="i28621" members="oewn-nut-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather nuts</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+    </Synset>
+    <Synset id="oewn-01385571-v" ili="i28623" members="oewn-snail-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather snails</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01145613-v" />
+      <Example>We went snailing in the summer</Example>
+    </Synset>
+    <Synset id="oewn-01385899-v" ili="i28625" members="oewn-birdnest-v oewn-bird-nest-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather birdnests</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>They went birdnesting in the early morning</Example>
+    </Synset>
+    <Synset id="oewn-01386047-v" ili="i28626" members="oewn-nest-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather nests</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+    </Synset>
+    <Synset id="oewn-01386165-v" ili="i28627" members="oewn-oyster-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather oysters, dig oysters</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+    </Synset>
+    <Synset id="oewn-01386300-v" ili="i28628" members="oewn-sponge-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather sponges, in the ocean</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+    </Synset>
+    <Synset id="oewn-01386454-v" ili="i28629" members="oewn-pearl-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather pearls, from oysters in the ocean</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+    </Synset>
+    <Synset id="oewn-01386601-v" ili="i28630" members="oewn-clam-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>gather clams, by digging in the sand by the ocean</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+    </Synset>
+    <Synset id="oewn-01388962-v" ili="i28644" members="oewn-shock-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>collect or gather into shocks</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>shock grain</Example>
+    </Synset>
+    <Synset id="oewn-01506930-v" ili="i29247" members="oewn-pile_up-v oewn-heap_up-v oewn-stack_up-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>arrange into piles or stacks</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01383303-v" />
+      <Example>She piled up her books in my living room</Example>
+    </Synset>
+    <Synset id="oewn-01388413-v" ili="i28640" members="oewn-collate-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>to assemble in proper sequence</Definition>
+      <SynsetRelation relType="entails" target="oewn-01383303-v" />
+      <SynsetRelation relType="hypernym" target="oewn-00278429-v" />
+      <Example>collate the papers</Example>
+    </Synset>
+    <Synset id="oewn-01980103-v" ili="i31608" members="oewn-pick_up-v oewn-lift_up-v oewn-gather_up-v" partOfSpeech="v" lexfile="verb.motion">
+      <Definition>take and lift upward</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-01978076-v" />
+    </Synset>
+    <Synset id="oewn-01381221-v" ili="i28602" members="oewn-spread-v oewn-distribute-v" partOfSpeech="v" lexfile="verb.contact">
+      <Definition>distribute or disperse widely</Definition>
+      <SynsetRelation relType="hyponym" target="oewn-02036072-v" />
+      <SynsetRelation relType="hyponym" target="oewn-02064069-v" />
+      <SynsetRelation relType="hyponym" target="oewn-00104219-v" />
+      <SynsetRelation relType="hyponym" target="oewn-00104421-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01379697-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01380788-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01381762-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01381921-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01382265-v" />
+      <SynsetRelation relType="hyponym" target="oewn-01382630-v" />
+      <Example>The invaders spread their language all over the country</Example>
+    </Synset>
+  </Lexicon>
+</LexicalResource>

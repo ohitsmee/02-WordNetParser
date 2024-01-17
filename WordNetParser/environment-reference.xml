@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <Lexicon>
+    <LexicalEntry id="oewn-environment-n">
+      <Lemma writtenForm="environment" partOfSpeech="n">
+        <Pronunciation>&#618;n&#712;va&#618;&#633;&#601;(n)m&#601;nt</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-environment__1.26.00.." synset="oewn-13957629-n">
+        <SenseRelation relType="derivation" target="oewn-environmental__3.01.01.." />
+      </Sense>
+      <Sense id="oewn-environment__1.15.00.." synset="oewn-08584764-n" />
+    </LexicalEntry>
+  <LexicalEntry id="oewn-homogeneous-a">
+      <Lemma writtenForm="homogeneous" partOfSpeech="a">
+        <Pronunciation variety="GB">&#716;h&#594;.m&#601;(&#650;)&#712;d&#658;i&#720;.n&#618;&#601;s</Pronunciation>
+        <Pronunciation variety="US">&#716;ho&#650;.mo&#650;&#712;d&#658;i&#720;.nj&#601;s</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-homogeneous__3.00.00.." synset="oewn-01203294-a">
+        <SenseRelation relType="antonym" target="oewn-heterogeneous__3.00.00.." />
+        <SenseRelation relType="derivation" target="oewn-homogeny__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-homogeneousness__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-homogeneity__1.07.00.." />
+        </Sense>
+    </LexicalEntry>
+    <Synset id="oewn-08584764-n" ili="i82005" members="oewn-environment-n oewn-environs-n oewn-surroundings-n oewn-surround-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the area in which something exists or lives</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08591861-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08511143-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08585671-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08585785-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08586108-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08598111-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08616252-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08633501-n" />
+      <Example>the country--the flat agricultural surround</Example>
+    </Synset>
+    <Synset id="oewn-13957629-n" ili="i110170" members="oewn-environment-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the totality of surrounding conditions</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13950416-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14536419-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14536664-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14536861-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537296-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537546-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537641-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14539858-n" />
+      <Example>he longed for the comfortable environment of his living room</Example>
+    </Synset>
+    <Synset id="oewn-08511143-n" ili="i81693" members="oewn-ambiance-n oewn-ambience-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the atmosphere of an environment</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+    </Synset>
+    <Synset id="oewn-14536419-n" ili="i113269" members="oewn-context-n oewn-circumstance-n oewn-setting-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the set of facts or circumstances that surround a situation or event</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13946063-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13946252-n" />
+      <Example>the historical context</Example>
+    </Synset>
+  </Lexicon>
+</LexicalResource>

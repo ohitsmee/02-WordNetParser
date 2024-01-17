@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <Lexicon>
+    <LexicalEntry id="oewn-environment-n">
+      <Lemma writtenForm="environment" partOfSpeech="n">
+        <Pronunciation>&#618;n&#712;va&#618;&#633;&#601;(n)m&#601;nt</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-environment__1.26.00.." synset="oewn-13957629-n">
+        <SenseRelation relType="derivation" target="oewn-environmental__3.01.01.." />
+      </Sense>
+      <Sense id="oewn-environment__1.15.00.." synset="oewn-08584764-n" />
+    </LexicalEntry>
+    <LexicalEntry id="oewn-environmental-a">
+      <Lemma writtenForm="environmental" partOfSpeech="a" />
+      <Sense id="oewn-environmental__3.01.01.." synset="oewn-02954640-a">
+        <SenseRelation relType="derivation" target="oewn-environment__1.26.00.." />
+        <SenseRelation relType="pertainym" target="oewn-environment__1.26.00.." />
+      </Sense>
+      <Sense id="oewn-environmental__3.01.00.." synset="oewn-02954488-a">
+        <SenseRelation relType="pertainym" target="oewn-ecology__1.09.00.." />
+        </Sense>
+    </LexicalEntry>
+    <Synset id="oewn-13957629-n" ili="i110170" members="oewn-environment-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the totality of surrounding conditions</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13950416-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14536419-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14536664-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14536861-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537296-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537546-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537641-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14539858-n" />
+      <Example>he longed for the comfortable environment of his living room</Example>
+    </Synset>
+    <Synset id="oewn-13950416-n" ili="i110136" members="oewn-situation-n oewn-state_of_affairs-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the general state of things; the combination of circumstances at a given time</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-00024900-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13951224-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13955454-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13955772-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13955981-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13956136-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13956254-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13956874-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13957307-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13957498-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13957629-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13957933-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13958260-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13958433-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13958786-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13959337-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13959474-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13960108-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13960317-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13960587-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13960760-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13960951-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13961243-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13967020-n" />
+      <Example>the present international situation is dangerous</Example>
+      <Example>wondered how such a state of affairs had come about</Example>
+      <Example dc:source="Franklin D.Roosevelt">eternal truths will be neither true nor eternal unless they have fresh meaning for every new social situation</Example>
+    </Synset>
+    <Synset id="oewn-14536419-n" ili="i113269" members="oewn-context-n oewn-circumstance-n oewn-setting-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the set of facts or circumstances that surround a situation or event</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13946063-n" />
+      <SynsetRelation relType="hyponym" target="oewn-13946252-n" />
+      <Example>the historical context</Example>
+    </Synset>
+    <Synset id="oewn-14536664-n" ili="i113270" members="oewn-ecology-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the environment as it relates to living organisms</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <SynsetRelation relType="has_domain_topic" target="oewn-02726983-a" />
+      <Example>it changed the ecology of the island</Example>
+    </Synset>
+    <Synset id="oewn-14536861-n" ili="i113271" members="oewn-setting-n oewn-background-n oewn-scope-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the state of the environment in which a situation exists</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537091-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14539684-n" />
+      <Example>you can't do that in a university setting</Example>
+    </Synset>
+    <Synset id="oewn-14537296-n" ili="i113273" members="oewn-home-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>an environment offering affection and security</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <Example>home is where the heart is</Example>
+      <Example>he grew up in a good Christian home</Example>
+      <Example>there's no place like home</Example>
+    </Synset>
+    <Synset id="oewn-14537641-n" ili="i113275" members="oewn-sphere-n oewn-domain-n oewn-area-n oewn-orbit-n oewn-field-n oewn-arena-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>a particular environment or walk of life</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14537994-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14538093-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14538407-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14538643-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14538946-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14539065-n" />
+      <SynsetRelation relType="hyponym" target="oewn-14539235-n" />
+      <Example>his social sphere is limited</Example>
+      <Example>it was a closed area of employment</Example>
+      <Example>he's out of my orbit</Example>
+    </Synset>
+    <Synset id="oewn-14539858-n" ili="i113287" members="oewn-street-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+      <SynsetRelation relType="holo_part" target="oewn-08526272-n" />
+      <Example>she tried to keep her children off the street</Example>
+    </Synset>
+    <Synset id="oewn-14537546-n" ili="i113274" members="oewn-milieu-n oewn-surroundings-n" partOfSpeech="n" lexfile="noun.state">
+      <Definition>the environmental condition</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-13957629-n" />
+    </Synset>
+    <Synset id="oewn-08584764-n" ili="i82005" members="oewn-environment-n oewn-environs-n oewn-surroundings-n oewn-surround-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the area in which something exists or lives</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08591861-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08511143-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08585671-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08585785-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08586108-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08598111-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08616252-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08633501-n" />
+      <Example>the country--the flat agricultural surround</Example>
+    </Synset>
+    <Synset id="oewn-02954640-a" ili="i16779" members="oewn-environmental-a" partOfSpeech="a" lexfile="adj.pert">
+      <Definition>of or relating to the external conditions or surroundings</Definition>
+      <Example>environmental factors</Example>
+    </Synset>
+    <Synset id="oewn-08591861-n" ili="i82045" members="oewn-geographical_area-n oewn-geographic_area-n oewn-geographical_region-n oewn-geographic_region-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>a demarcated area of the Earth</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08648560-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08510074-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08510271-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08510503-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08511792-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08516868-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08519818-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08520259-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08520942-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08521396-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08523368-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08530489-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08530790-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08536123-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08536807-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08537099-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08557020-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08559017-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08559404-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08580717-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08581015-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08581164-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08581519-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08581668-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08581836-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08582268-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08584601-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08584764-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08585129-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08595702-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08600622-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08603857-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08614879-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08620206-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08631932-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08645989-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08662297-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08671145-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08677077-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08690300-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08691133-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08693705-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08695991-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08699926-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08700557-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08701286-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08708217-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08717240-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08718975-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08719110-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08719224-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08719533-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08722479-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08726871-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08728368-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08729301-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08731488-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08732943-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08740677-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08742378-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08749786-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08753397-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08775402-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08776512-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08776715-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08778226-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08778343-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08787012-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08793130-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08793430-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08793617-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08793971-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08794153-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08797682-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08805318-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08805547-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08805730-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08805856-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08807822-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08808205-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08809019-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08809935-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08811341-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08811766-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08812218-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08812426-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08816234-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08816975-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08817123-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08817558-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08818528-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08818763-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08834821-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08835087-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08837075-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08837735-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08840570-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08849712-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08864358-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08876674-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08901901-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08902757-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08904900-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08905033-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08905438-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08906374-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08906504-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08906863-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08908408-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08911642-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08922611-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08922911-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08923052-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08930167-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08933015-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08934932-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08935145-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08935557-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08936089-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08937276-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08937654-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08938021-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08938717-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08939466-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08949495-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08958974-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08959335-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08963374-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08964334-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08964591-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08964883-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08965050-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08967928-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08971286-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08971550-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08974042-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08976985-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08990741-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08991028-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08993184-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-08997987-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09001191-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09017612-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09017885-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09026995-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09028082-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09029841-n" />
+      <SynsetRelation relType="hyponym" target="oewn-09034471-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09035268-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09038023-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09038602-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09041017-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09045201-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09050574-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09050737-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09051612-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09057780-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09061465-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09061735-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09065399-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09070583-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09070759-n" />
+      <SynsetRelation relType="hyponym" target="oewn-09070916-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09071336-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09071759-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09072055-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09072700-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09073186-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09073691-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09074182-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09074354-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09074556-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09075108-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09075291-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09075475-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09112954-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09188920-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09189097-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09189327-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09189549-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09189695-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09195377-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09200544-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09201038-n" />
+      <SynsetRelation relType="instance_hyponym" target="oewn-09201207-n" />
+      <SynsetRelation relType="hyponym" target="oewn-09201378-n" />
+      <SynsetRelation relType="hyponym" target="oewn-09201493-n" />
+    </Synset>
+    <Synset id="oewn-08511143-n" ili="i81693" members="oewn-ambiance-n oewn-ambience-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the atmosphere of an environment</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+    </Synset>
+    <Synset id="oewn-08585671-n" ili="i82008" members="oewn-medium-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the surrounding environment</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+      <Example>fish require an aqueous medium</Example>
+    </Synset>
+    <Synset id="oewn-08585785-n" ili="i82009" members="oewn-setting-n oewn-scene-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the context and environment in which something is set</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08585959-n" />
+      <Example>the perfect setting for a ghost story</Example>
+    </Synset>
+    <Synset id="oewn-08586108-n" ili="i82011" members="oewn-element-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the most favorable environment for a plant or animal</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+      <Example>water is the element of fishes</Example>
+    </Synset>
+    <Synset id="oewn-08598111-n" ili="i82061" members="oewn-habitat-n oewn-home_ground-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the type of environment in which an organism or group normally lives or occurs</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+      <SynsetRelation relType="hyponym" target="oewn-08598331-n" />
+      <Example>a marine habitat</Example>
+      <Example>he felt safe on his home grounds</Example>
+    </Synset>
+    <Synset id="oewn-08616252-n" ili="i82166" members="oewn-melting_pot-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>an environment in which many ideas and races are socially assimilated</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+    </Synset>
+    <Synset id="oewn-08633501-n" ili="i82263" members="oewn-parts-n" partOfSpeech="n" lexfile="noun.location">
+      <Definition>the local environment</Definition>
+      <SynsetRelation relType="hypernym" target="oewn-08584764-n" />
+      <Example>he hasn't been seen around these parts in years</Example>
+    </Synset>
+  </Lexicon>
+</LexicalResource>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.1.dtd">
+<LexicalResource xmlns:dc="https://globalwordnet.github.io/schemas/dc/">
+  <Lexicon>
+    <LexicalEntry id="oewn-homogeneous-a">
+      <Lemma writtenForm="homogeneous" partOfSpeech="a">
+        <Pronunciation variety="GB">&#716;h&#594;.m&#601;(&#650;)&#712;d&#658;i&#720;.n&#618;&#601;s</Pronunciation>
+        <Pronunciation variety="US">&#716;ho&#650;.mo&#650;&#712;d&#658;i&#720;.nj&#601;s</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-homogeneous__3.00.00.." synset="oewn-01203294-a">
+        <SenseRelation relType="antonym" target="oewn-heterogeneous__3.00.00.." />
+        <SenseRelation relType="derivation" target="oewn-homogeny__1.07.00.." />
+      </Sense>
+    </LexicalEntry>
+
+    <LexicalEntry id="oewn-heterogeneous-a">
+      <Lemma writtenForm="heterogeneous" partOfSpeech="a">
+        <Pronunciation variety="GB">h&#603;.t&#601;.&#633;&#601;.&#712;d&#658;i&#720;.ni&#720;.&#601;s</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-heterogeneous__3.00.00.." synset="oewn-01202280-a">
+        <SenseRelation relType="antonym" target="oewn-homogeneous__3.00.00.." />
+        <SenseRelation relType="derivation" target="oewn-heterogeneousness__1.07.00.." />
+        <SenseRelation relType="derivation" target="oewn-heterogeneity__1.07.00.." />
+      </Sense>
+      <Sense id="oewn-heterogeneous__3.00.02.." synset="oewn-00182673-a" />
+    </LexicalEntry>
+    <LexicalEntry id="oewn-homogeny-n">
+      <Lemma writtenForm="homogeny" partOfSpeech="n">
+        <Pronunciation variety="GB">h&#601;&#712;m&#594;d&#658;&#601;ni</Pronunciation>
+        <Pronunciation variety="US">h&#601;&#712;m&#593;d&#658;&#601;ni</Pronunciation>
+      </Lemma>
+      <Sense id="oewn-homogeny__1.07.00.." synset="oewn-04751401-n">
+        <SenseRelation relType="derivation" target="oewn-homogenous__3.00.00.." />
+        <SenseRelation relType="derivation" target="oewn-homogeneous__3.00.00.." />
+        </Sense>
+    </LexicalEntry>
+
+    <Synset id="oewn-01202280-a" ili="i6555" members="oewn-heterogeneous-a oewn-heterogenous-a" partOfSpeech="a" lexfile="adj.all">
+      <Definition>consisting of elements that are not of the same kind or nature</Definition>
+      <SynsetRelation relType="also" target="oewn-02072149-a" />
+      <SynsetRelation relType="also" target="oewn-00786685-a" />
+      <SynsetRelation relType="also" target="oewn-02516600-a" />
+      <SynsetRelation relType="similar" target="oewn-01202626-s" />
+      <SynsetRelation relType="similar" target="oewn-01203019-s" />
+      <SynsetRelation relType="similar" target="oewn-01203206-s" />
+      <Example>the population of the United States is vast and heterogeneous</Example>
+    </Synset>
+    <Synset id="oewn-00182673-a" ili="i979" members="oewn-heterogenous-a oewn-heterogeneous-a" partOfSpeech="a" lexfile="adj.all">
+      <Definition>originating outside the body</Definition>
+    </Synset>
+    <Synset id="oewn-04751401-n" ili="i61956" members="oewn-homogeny-n" partOfSpeech="n" lexfile="noun.attribute">
+      <Definition>(biology) similarity because of common evolution</Definition>
+      <SynsetRelation relType="domain_topic" target="oewn-06047178-n" />
+      <SynsetRelation relType="hypernym" target="oewn-04750845-n" />
+    </Synset>
+
+  </Lexicon>
+</LexicalResource>
